@@ -1,0 +1,684 @@
+-- Merging decision tree log ---
+provider#androidx.startup.InitializationProvider
+INJECTED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:87:9-97:20
+MERGED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\samsung\.gradle\caches\transforms-3\fca4a2a93361e5b37a5bd3a0ceafd122\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\samsung\.gradle\caches\transforms-3\fca4a2a93361e5b37a5bd3a0ceafd122\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\cf436576dd513057d169d2a4e2294ef4\transformed\jetified-lifecycle-process-2.8.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\cf436576dd513057d169d2a4e2294ef4\transformed\jetified-lifecycle-process-2.8.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\2151b9b2d79cf91f0ec425761c87a989\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\2151b9b2d79cf91f0ec425761c87a989\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:91:13-31
+	android:authorities
+		INJECTED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:89:13-68
+	android:exported
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:90:13-37
+	android:name
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:88:13-67
+manifest
+ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:18:1-99:12
+INJECTED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:18:1-99:12
+INJECTED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:18:1-99:12
+INJECTED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:18:1-99:12
+MERGED from [androidx.databinding:viewbinding:8.3.1] C:\Users\samsung\.gradle\caches\transforms-3\a49ffac2a1933716e2acbbc93d70dac8\transformed\jetified-viewbinding-8.3.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-work:1.2.0] C:\Users\samsung\.gradle\caches\transforms-3\190128392eb992db92ce70d51e7af13f\transformed\jetified-hilt-work-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:hilt-android:2.52] C:\Users\samsung\.gradle\caches\transforms-3\a3b52da7c13b9e94e30193b2e3389b39\transformed\jetified-hilt-android-2.52\AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.wear:wear:1.3.0] C:\Users\samsung\.gradle\caches\transforms-3\bbcfb740577874ad1d630e637603f214\transformed\wear-1.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\samsung\.gradle\caches\transforms-3\4462fe75abb4547f2fffde88b798064b\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\samsung\.gradle\caches\transforms-3\a1e35e5087d1147cb20b9463f46c74c0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\samsung\.gradle\caches\transforms-3\941dc1bbee8337a1b5988cb239782b2e\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\samsung\.gradle\caches\transforms-3\5e3a85f59a89df4a111f36405f847e31\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\30c39d20584a14be2b276370eff2e7bc\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.8.2] C:\Users\samsung\.gradle\caches\transforms-3\caefbaf7ffc63dacd7a5407eae890a46\transformed\fragment-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-ktx:1.8.2] C:\Users\samsung\.gradle\caches\transforms-3\06d67aceb1b1578c62ea845fa066f0e5\transformed\jetified-fragment-ktx-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.health:health-services-client:1.0.0-rc02] C:\Users\samsung\.gradle\caches\transforms-3\f60079b0f80da32e65bc1595f578caa4\transformed\jetified-health-services-client-1.0.0-rc02\AndroidManifest.xml:14:1-34:12
+MERGED from [androidx.work:work-runtime-ktx:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\16e37c091938660db03a281f8bd44818\transformed\work-runtime-ktx-2.9.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\samsung\.gradle\caches\transforms-3\21eb407f1704f0ef814c46e164967f95\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\2a1dd442661ed6268720b738a4c01818\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\samsung\.gradle\caches\transforms-3\dd180ad8ac522299e2937d03c9e9a143\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\4163a0985d7f2b661a2a6d091eeceb2d\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\samsung\.gradle\caches\transforms-3\835356daa0a5eea5cc74e1bc7f8ebedf\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\f49814dfa384a44f69ab9ae3a5e2216a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\samsung\.gradle\caches\transforms-3\e9ec7ddec064c6a93047d0d9c872742e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\samsung\.gradle\caches\transforms-3\d85c621fdf2b91c1b898234bc29dbe70\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.8.1] C:\Users\samsung\.gradle\caches\transforms-3\b68e0ef5dfd16a7f9fb16d542ecaca6d\transformed\jetified-activity-ktx-1.8.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\samsung\.gradle\caches\transforms-3\d93f09dc4f494abfd9440bb8990888ad\transformed\jetified-activity-1.8.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\da1a209c9ba489f874dbfc02c96bf493\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\c4d761f2e1c10382df9baef09030da65\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\2fb321bb0f0148161e4243781ad0cbcd\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\samsung\.gradle\caches\transforms-3\a53210a7d9764853bc9349d6f7f15311\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\samsung\.gradle\caches\transforms-3\fca4a2a93361e5b37a5bd3a0ceafd122\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\samsung\.gradle\caches\transforms-3\438b394db69b7b2c798e0030b39e72b5\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\samsung\.gradle\caches\transforms-3\77b16eea497cb3cad6fe224a3d64d6d7\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\samsung\.gradle\caches\transforms-3\1efa60261b83ba218b87c5de9ab9f05f\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\samsung\.gradle\caches\transforms-3\4ecf25cf92920f96977e657a34634ef5\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\cf436576dd513057d169d2a4e2294ef4\transformed\jetified-lifecycle-process-2.8.4\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\2f682e544e216e89edaf3943ff3f94fd\transformed\lifecycle-viewmodel-2.8.4\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\a40ba90d0988785e538c45fb3d3809c2\transformed\jetified-lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\d9d4e3314d4d2d56a0e18170d26257a6\transformed\jetified-lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\a4dcd8638eac25b241e60ff433c5dd97\transformed\lifecycle-livedata-core-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\14f20f7d707ea47e2241fa5f6a6d2755\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\da9de48e1d72a2d633fa44d69825710e\transformed\jetified-lifecycle-viewmodel-ktx-2.8.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\daa0d27020edfba0d63de8c22271699d\transformed\jetified-lifecycle-livedata-core-ktx-2.8.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\4d05c1ceae671d1893de3200336baa30\transformed\jetified-lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\261877acee60f440e539a6851d66e199\transformed\jetified-lifecycle-service-2.8.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\351ddff6ecb68ba849d038b644f9f8bb\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\samsung\.gradle\caches\transforms-3\bf5c8de983f312da13b15b3f0b81a498\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\9f202caab22f68ec6515ceb1dcbae441\transformed\jetified-datastore-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\d945c00617acab2a293fe6744344104d\transformed\jetified-datastore-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\e32f027388b43235d53d4ba8b27ca96d\transformed\jetified-datastore-preferences-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-ktx:2.5.0] C:\Users\samsung\.gradle\caches\transforms-3\80fa66eb74e57f44576af2098ad1b41e\transformed\jetified-room-ktx-2.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\samsung\.gradle\caches\transforms-3\fe80b33c8c362db705638b8c70c8b589\transformed\room-runtime-2.5.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] C:\Users\samsung\.gradle\caches\transforms-3\d88dd3c0f4d69519da5f411ef3ef5f35\transformed\sqlite-framework-2.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\samsung\.gradle\caches\transforms-3\c09e557008fc4e1fd16a5e492ac96383\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite:2.3.0] C:\Users\samsung\.gradle\caches\transforms-3\b70636977d3eb7d302936b373af63154\transformed\sqlite-2.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\ffe6aa2b9ffa282fa3ea607f451499e0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\2151b9b2d79cf91f0ec425761c87a989\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\8e02e62c2dbd77854fab17479fe25695\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\fbc1059278cc4aeed6b7b5bd502d8f0c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\bd562b9297fa2aaae41ac5f59c476830\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\samsung\.gradle\caches\transforms-3\df1333b0dc6abbf600d5d1d59c880648\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\2a3f2524249a78c2dee015438824e92d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\a0009a6085b309f7cf4a3b68304cee5f\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\34140f78a2d1c9301a458af047f394c2\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\924729f0b28f6f3c9a395d324dce5cf9\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.52] C:\Users\samsung\.gradle\caches\transforms-3\6d876e4e30b9c477762b4c6418785fd9\transformed\jetified-dagger-lint-aar-2.52\AndroidManifest.xml:16:1-19:12
+	package
+		INJECTED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:20:5-51
+	android:versionCode
+		INJECTED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:19:5-63
+uses-feature#android.hardware.type.watch
+ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:22:5-64
+	android:name
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:22:19-61
+uses-permission#android.permission.BODY_SENSORS
+ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:25:5-71
+	android:name
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:25:22-68
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:27:5-81
+MERGED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:25:5-81
+MERGED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:30:5-66
+	android:name
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:30:22-64
+queries
+ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:38:5-40:15
+MERGED from [androidx.health:health-services-client:1.0.0-rc02] C:\Users\samsung\.gradle\caches\transforms-3\f60079b0f80da32e65bc1595f578caa4\transformed\jetified-health-services-client-1.0.0-rc02\AndroidManifest.xml:19:5-21:15
+MERGED from [androidx.health:health-services-client:1.0.0-rc02] C:\Users\samsung\.gradle\caches\transforms-3\f60079b0f80da32e65bc1595f578caa4\transformed\jetified-health-services-client-1.0.0-rc02\AndroidManifest.xml:19:5-21:15
+package#com.google.android.wearable.healthservices
+ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:39:9-78
+MERGED from [androidx.health:health-services-client:1.0.0-rc02] C:\Users\samsung\.gradle\caches\transforms-3\f60079b0f80da32e65bc1595f578caa4\transformed\jetified-health-services-client-1.0.0-rc02\AndroidManifest.xml:20:9-78
+MERGED from [androidx.health:health-services-client:1.0.0-rc02] C:\Users\samsung\.gradle\caches\transforms-3\f60079b0f80da32e65bc1595f578caa4\transformed\jetified-health-services-client-1.0.0-rc02\AndroidManifest.xml:20:9-78
+	android:name
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:39:18-75
+application
+ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:42:5-98:19
+INJECTED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:42:5-98:19
+MERGED from [androidx.wear:wear:1.3.0] C:\Users\samsung\.gradle\caches\transforms-3\bbcfb740577874ad1d630e637603f214\transformed\wear-1.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.wear:wear:1.3.0] C:\Users\samsung\.gradle\caches\transforms-3\bbcfb740577874ad1d630e637603f214\transformed\wear-1.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\samsung\.gradle\caches\transforms-3\4462fe75abb4547f2fffde88b798064b\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\samsung\.gradle\caches\transforms-3\4462fe75abb4547f2fffde88b798064b\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\samsung\.gradle\caches\transforms-3\a1e35e5087d1147cb20b9463f46c74c0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\samsung\.gradle\caches\transforms-3\a1e35e5087d1147cb20b9463f46c74c0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.health:health-services-client:1.0.0-rc02] C:\Users\samsung\.gradle\caches\transforms-3\f60079b0f80da32e65bc1595f578caa4\transformed\jetified-health-services-client-1.0.0-rc02\AndroidManifest.xml:23:5-32:19
+MERGED from [androidx.health:health-services-client:1.0.0-rc02] C:\Users\samsung\.gradle\caches\transforms-3\f60079b0f80da32e65bc1595f578caa4\transformed\jetified-health-services-client-1.0.0-rc02\AndroidManifest.xml:23:5-32:19
+MERGED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\samsung\.gradle\caches\transforms-3\fca4a2a93361e5b37a5bd3a0ceafd122\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\samsung\.gradle\caches\transforms-3\fca4a2a93361e5b37a5bd3a0ceafd122\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\samsung\.gradle\caches\transforms-3\77b16eea497cb3cad6fe224a3d64d6d7\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\samsung\.gradle\caches\transforms-3\77b16eea497cb3cad6fe224a3d64d6d7\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\cf436576dd513057d169d2a4e2294ef4\transformed\jetified-lifecycle-process-2.8.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\cf436576dd513057d169d2a4e2294ef4\transformed\jetified-lifecycle-process-2.8.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\samsung\.gradle\caches\transforms-3\fe80b33c8c362db705638b8c70c8b589\transformed\room-runtime-2.5.0\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\samsung\.gradle\caches\transforms-3\fe80b33c8c362db705638b8c70c8b589\transformed\room-runtime-2.5.0\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\ffe6aa2b9ffa282fa3ea607f451499e0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\ffe6aa2b9ffa282fa3ea607f451499e0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\2151b9b2d79cf91f0ec425761c87a989\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\2151b9b2d79cf91f0ec425761c87a989\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\samsung\.gradle\caches\transforms-3\77b16eea497cb3cad6fe224a3d64d6d7\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:51:9-35
+	android:label
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:49:9-41
+	android:roundIcon
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:50:9-54
+	android:icon
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:48:9-43
+	android:allowBackup
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:47:9-35
+	android:theme
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:52:9-40
+	android:networkSecurityConfig
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:44:9-69
+	android:name
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:46:9-63
+uses-library#com.google.android.wearable
+ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:53:9-55:39
+MERGED from [androidx.wear:wear:1.3.0] C:\Users\samsung\.gradle\caches\transforms-3\bbcfb740577874ad1d630e637603f214\transformed\wear-1.3.0\AndroidManifest.xml:23:9-25:40
+MERGED from [androidx.wear:wear:1.3.0] C:\Users\samsung\.gradle\caches\transforms-3\bbcfb740577874ad1d630e637603f214\transformed\wear-1.3.0\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:55:13-36
+	android:name
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:54:13-55
+meta-data#com.google.android.wearable.standalone
+ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:57:9-59:36
+	android:value
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:59:13-33
+	android:name
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:58:13-66
+activity#com.example.passivedata.MainActivity
+ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:61:9-69:20
+	android:label
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:64:13-45
+	android:exported
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:63:13-36
+	android:name
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:62:13-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:65:13-68:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:66:17-69
+	android:name
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:66:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:67:17-77
+	android:name
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:67:27-74
+service#com.example.passivedata.PassiveDataService
+ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:71:9-73:39
+	android:exported
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:73:13-36
+	android:permission
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:72:13-108
+	android:name
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:71:18-52
+receiver#com.example.passivedata.StartupReceiver
+ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:76:9-82:20
+	android:exported
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:78:13-36
+	android:name
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:77:13-44
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:79:13-81:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:80:17-79
+	android:name
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:80:25-76
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:93:13-96:39
+REJECTED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:34:13-36:52
+	tools:node
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:96:17-36
+	android:value
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:95:17-49
+	android:name
+		ADDED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml:94:17-68
+uses-sdk
+INJECTED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.3.1] C:\Users\samsung\.gradle\caches\transforms-3\a49ffac2a1933716e2acbbc93d70dac8\transformed\jetified-viewbinding-8.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.3.1] C:\Users\samsung\.gradle\caches\transforms-3\a49ffac2a1933716e2acbbc93d70dac8\transformed\jetified-viewbinding-8.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-work:1.2.0] C:\Users\samsung\.gradle\caches\transforms-3\190128392eb992db92ce70d51e7af13f\transformed\jetified-hilt-work-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.hilt:hilt-work:1.2.0] C:\Users\samsung\.gradle\caches\transforms-3\190128392eb992db92ce70d51e7af13f\transformed\jetified-hilt-work-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:hilt-android:2.52] C:\Users\samsung\.gradle\caches\transforms-3\a3b52da7c13b9e94e30193b2e3389b39\transformed\jetified-hilt-android-2.52\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.52] C:\Users\samsung\.gradle\caches\transforms-3\a3b52da7c13b9e94e30193b2e3389b39\transformed\jetified-hilt-android-2.52\AndroidManifest.xml:18:3-42
+MERGED from [androidx.wear:wear:1.3.0] C:\Users\samsung\.gradle\caches\transforms-3\bbcfb740577874ad1d630e637603f214\transformed\wear-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear:wear:1.3.0] C:\Users\samsung\.gradle\caches\transforms-3\bbcfb740577874ad1d630e637603f214\transformed\wear-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\samsung\.gradle\caches\transforms-3\4462fe75abb4547f2fffde88b798064b\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\samsung\.gradle\caches\transforms-3\4462fe75abb4547f2fffde88b798064b\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\samsung\.gradle\caches\transforms-3\a1e35e5087d1147cb20b9463f46c74c0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\samsung\.gradle\caches\transforms-3\a1e35e5087d1147cb20b9463f46c74c0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\samsung\.gradle\caches\transforms-3\941dc1bbee8337a1b5988cb239782b2e\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\samsung\.gradle\caches\transforms-3\941dc1bbee8337a1b5988cb239782b2e\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\samsung\.gradle\caches\transforms-3\5e3a85f59a89df4a111f36405f847e31\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\samsung\.gradle\caches\transforms-3\5e3a85f59a89df4a111f36405f847e31\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\30c39d20584a14be2b276370eff2e7bc\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\30c39d20584a14be2b276370eff2e7bc\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.8.2] C:\Users\samsung\.gradle\caches\transforms-3\caefbaf7ffc63dacd7a5407eae890a46\transformed\fragment-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.2] C:\Users\samsung\.gradle\caches\transforms-3\caefbaf7ffc63dacd7a5407eae890a46\transformed\fragment-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.2] C:\Users\samsung\.gradle\caches\transforms-3\06d67aceb1b1578c62ea845fa066f0e5\transformed\jetified-fragment-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.2] C:\Users\samsung\.gradle\caches\transforms-3\06d67aceb1b1578c62ea845fa066f0e5\transformed\jetified-fragment-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.health:health-services-client:1.0.0-rc02] C:\Users\samsung\.gradle\caches\transforms-3\f60079b0f80da32e65bc1595f578caa4\transformed\jetified-health-services-client-1.0.0-rc02\AndroidManifest.xml:17:5-44
+MERGED from [androidx.health:health-services-client:1.0.0-rc02] C:\Users\samsung\.gradle\caches\transforms-3\f60079b0f80da32e65bc1595f578caa4\transformed\jetified-health-services-client-1.0.0-rc02\AndroidManifest.xml:17:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\16e37c091938660db03a281f8bd44818\transformed\work-runtime-ktx-2.9.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\16e37c091938660db03a281f8bd44818\transformed\work-runtime-ktx-2.9.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\samsung\.gradle\caches\transforms-3\21eb407f1704f0ef814c46e164967f95\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\samsung\.gradle\caches\transforms-3\21eb407f1704f0ef814c46e164967f95\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\2a1dd442661ed6268720b738a4c01818\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\2a1dd442661ed6268720b738a4c01818\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\samsung\.gradle\caches\transforms-3\dd180ad8ac522299e2937d03c9e9a143\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\samsung\.gradle\caches\transforms-3\dd180ad8ac522299e2937d03c9e9a143\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\4163a0985d7f2b661a2a6d091eeceb2d\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\4163a0985d7f2b661a2a6d091eeceb2d\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\samsung\.gradle\caches\transforms-3\835356daa0a5eea5cc74e1bc7f8ebedf\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\samsung\.gradle\caches\transforms-3\835356daa0a5eea5cc74e1bc7f8ebedf\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\f49814dfa384a44f69ab9ae3a5e2216a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\f49814dfa384a44f69ab9ae3a5e2216a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\samsung\.gradle\caches\transforms-3\e9ec7ddec064c6a93047d0d9c872742e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\samsung\.gradle\caches\transforms-3\e9ec7ddec064c6a93047d0d9c872742e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\samsung\.gradle\caches\transforms-3\d85c621fdf2b91c1b898234bc29dbe70\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\samsung\.gradle\caches\transforms-3\d85c621fdf2b91c1b898234bc29dbe70\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.8.1] C:\Users\samsung\.gradle\caches\transforms-3\b68e0ef5dfd16a7f9fb16d542ecaca6d\transformed\jetified-activity-ktx-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] C:\Users\samsung\.gradle\caches\transforms-3\b68e0ef5dfd16a7f9fb16d542ecaca6d\transformed\jetified-activity-ktx-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\samsung\.gradle\caches\transforms-3\d93f09dc4f494abfd9440bb8990888ad\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\samsung\.gradle\caches\transforms-3\d93f09dc4f494abfd9440bb8990888ad\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\da1a209c9ba489f874dbfc02c96bf493\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\da1a209c9ba489f874dbfc02c96bf493\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\c4d761f2e1c10382df9baef09030da65\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\c4d761f2e1c10382df9baef09030da65\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\2fb321bb0f0148161e4243781ad0cbcd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\2fb321bb0f0148161e4243781ad0cbcd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\samsung\.gradle\caches\transforms-3\a53210a7d9764853bc9349d6f7f15311\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\samsung\.gradle\caches\transforms-3\a53210a7d9764853bc9349d6f7f15311\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\samsung\.gradle\caches\transforms-3\fca4a2a93361e5b37a5bd3a0ceafd122\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\samsung\.gradle\caches\transforms-3\fca4a2a93361e5b37a5bd3a0ceafd122\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\samsung\.gradle\caches\transforms-3\438b394db69b7b2c798e0030b39e72b5\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\samsung\.gradle\caches\transforms-3\438b394db69b7b2c798e0030b39e72b5\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] C:\Users\samsung\.gradle\caches\transforms-3\77b16eea497cb3cad6fe224a3d64d6d7\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\samsung\.gradle\caches\transforms-3\77b16eea497cb3cad6fe224a3d64d6d7\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\samsung\.gradle\caches\transforms-3\1efa60261b83ba218b87c5de9ab9f05f\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\samsung\.gradle\caches\transforms-3\1efa60261b83ba218b87c5de9ab9f05f\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\samsung\.gradle\caches\transforms-3\4ecf25cf92920f96977e657a34634ef5\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\samsung\.gradle\caches\transforms-3\4ecf25cf92920f96977e657a34634ef5\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\cf436576dd513057d169d2a4e2294ef4\transformed\jetified-lifecycle-process-2.8.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\cf436576dd513057d169d2a4e2294ef4\transformed\jetified-lifecycle-process-2.8.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\2f682e544e216e89edaf3943ff3f94fd\transformed\lifecycle-viewmodel-2.8.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\2f682e544e216e89edaf3943ff3f94fd\transformed\lifecycle-viewmodel-2.8.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\a40ba90d0988785e538c45fb3d3809c2\transformed\jetified-lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\a40ba90d0988785e538c45fb3d3809c2\transformed\jetified-lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\d9d4e3314d4d2d56a0e18170d26257a6\transformed\jetified-lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\d9d4e3314d4d2d56a0e18170d26257a6\transformed\jetified-lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\a4dcd8638eac25b241e60ff433c5dd97\transformed\lifecycle-livedata-core-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\a4dcd8638eac25b241e60ff433c5dd97\transformed\lifecycle-livedata-core-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\14f20f7d707ea47e2241fa5f6a6d2755\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\14f20f7d707ea47e2241fa5f6a6d2755\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\da9de48e1d72a2d633fa44d69825710e\transformed\jetified-lifecycle-viewmodel-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\da9de48e1d72a2d633fa44d69825710e\transformed\jetified-lifecycle-viewmodel-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\daa0d27020edfba0d63de8c22271699d\transformed\jetified-lifecycle-livedata-core-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\daa0d27020edfba0d63de8c22271699d\transformed\jetified-lifecycle-livedata-core-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\4d05c1ceae671d1893de3200336baa30\transformed\jetified-lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\4d05c1ceae671d1893de3200336baa30\transformed\jetified-lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\261877acee60f440e539a6851d66e199\transformed\jetified-lifecycle-service-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\261877acee60f440e539a6851d66e199\transformed\jetified-lifecycle-service-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\351ddff6ecb68ba849d038b644f9f8bb\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\351ddff6ecb68ba849d038b644f9f8bb\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\samsung\.gradle\caches\transforms-3\bf5c8de983f312da13b15b3f0b81a498\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\samsung\.gradle\caches\transforms-3\bf5c8de983f312da13b15b3f0b81a498\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\9f202caab22f68ec6515ceb1dcbae441\transformed\jetified-datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\9f202caab22f68ec6515ceb1dcbae441\transformed\jetified-datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\d945c00617acab2a293fe6744344104d\transformed\jetified-datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\d945c00617acab2a293fe6744344104d\transformed\jetified-datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\e32f027388b43235d53d4ba8b27ca96d\transformed\jetified-datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\e32f027388b43235d53d4ba8b27ca96d\transformed\jetified-datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.5.0] C:\Users\samsung\.gradle\caches\transforms-3\80fa66eb74e57f44576af2098ad1b41e\transformed\jetified-room-ktx-2.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.5.0] C:\Users\samsung\.gradle\caches\transforms-3\80fa66eb74e57f44576af2098ad1b41e\transformed\jetified-room-ktx-2.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\samsung\.gradle\caches\transforms-3\fe80b33c8c362db705638b8c70c8b589\transformed\room-runtime-2.5.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\samsung\.gradle\caches\transforms-3\fe80b33c8c362db705638b8c70c8b589\transformed\room-runtime-2.5.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] C:\Users\samsung\.gradle\caches\transforms-3\d88dd3c0f4d69519da5f411ef3ef5f35\transformed\sqlite-framework-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] C:\Users\samsung\.gradle\caches\transforms-3\d88dd3c0f4d69519da5f411ef3ef5f35\transformed\sqlite-framework-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\samsung\.gradle\caches\transforms-3\c09e557008fc4e1fd16a5e492ac96383\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\samsung\.gradle\caches\transforms-3\c09e557008fc4e1fd16a5e492ac96383\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] C:\Users\samsung\.gradle\caches\transforms-3\b70636977d3eb7d302936b373af63154\transformed\sqlite-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] C:\Users\samsung\.gradle\caches\transforms-3\b70636977d3eb7d302936b373af63154\transformed\sqlite-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\ffe6aa2b9ffa282fa3ea607f451499e0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\ffe6aa2b9ffa282fa3ea607f451499e0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\2151b9b2d79cf91f0ec425761c87a989\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\samsung\.gradle\caches\transforms-3\2151b9b2d79cf91f0ec425761c87a989\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\8e02e62c2dbd77854fab17479fe25695\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\8e02e62c2dbd77854fab17479fe25695\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\fbc1059278cc4aeed6b7b5bd502d8f0c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\fbc1059278cc4aeed6b7b5bd502d8f0c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\bd562b9297fa2aaae41ac5f59c476830\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\bd562b9297fa2aaae41ac5f59c476830\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\samsung\.gradle\caches\transforms-3\df1333b0dc6abbf600d5d1d59c880648\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\samsung\.gradle\caches\transforms-3\df1333b0dc6abbf600d5d1d59c880648\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\2a3f2524249a78c2dee015438824e92d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\2a3f2524249a78c2dee015438824e92d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\a0009a6085b309f7cf4a3b68304cee5f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\a0009a6085b309f7cf4a3b68304cee5f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\34140f78a2d1c9301a458af047f394c2\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\34140f78a2d1c9301a458af047f394c2\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\924729f0b28f6f3c9a395d324dce5cf9\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\samsung\.gradle\caches\transforms-3\924729f0b28f6f3c9a395d324dce5cf9\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.52] C:\Users\samsung\.gradle\caches\transforms-3\6d876e4e30b9c477762b4c6418785fd9\transformed\jetified-dagger-lint-aar-2.52\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.52] C:\Users\samsung\.gradle\caches\transforms-3\6d876e4e30b9c477762b4c6418785fd9\transformed\jetified-dagger-lint-aar-2.52\AndroidManifest.xml:18:3-42
+	android:targetSdkVersion
+		INJECTED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\src\main\AndroidManifest.xml
+service#androidx.health.services.client.VersionApiService
+ADDED from [androidx.health:health-services-client:1.0.0-rc02] C:\Users\samsung\.gradle\caches\transforms-3\f60079b0f80da32e65bc1595f578caa4\transformed\jetified-health-services-client-1.0.0-rc02\AndroidManifest.xml:24:9-31:19
+	android:exported
+		ADDED from [androidx.health:health-services-client:1.0.0-rc02] C:\Users\samsung\.gradle\caches\transforms-3\f60079b0f80da32e65bc1595f578caa4\transformed\jetified-health-services-client-1.0.0-rc02\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [androidx.health:health-services-client:1.0.0-rc02] C:\Users\samsung\.gradle\caches\transforms-3\f60079b0f80da32e65bc1595f578caa4\transformed\jetified-health-services-client-1.0.0-rc02\AndroidManifest.xml:27:13-108
+	android:name
+		ADDED from [androidx.health:health-services-client:1.0.0-rc02] C:\Users\samsung\.gradle\caches\transforms-3\f60079b0f80da32e65bc1595f578caa4\transformed\jetified-health-services-client-1.0.0-rc02\AndroidManifest.xml:25:13-77
+intent-filter#action:name:hs.versionclient.BIND
+ADDED from [androidx.health:health-services-client:1.0.0-rc02] C:\Users\samsung\.gradle\caches\transforms-3\f60079b0f80da32e65bc1595f578caa4\transformed\jetified-health-services-client-1.0.0-rc02\AndroidManifest.xml:28:13-30:29
+action#hs.versionclient.BIND
+ADDED from [androidx.health:health-services-client:1.0.0-rc02] C:\Users\samsung\.gradle\caches\transforms-3\f60079b0f80da32e65bc1595f578caa4\transformed\jetified-health-services-client-1.0.0-rc02\AndroidManifest.xml:29:17-64
+	android:name
+		ADDED from [androidx.health:health-services-client:1.0.0-rc02] C:\Users\samsung\.gradle\caches\transforms-3\f60079b0f80da32e65bc1595f578caa4\transformed\jetified-health-services-client-1.0.0-rc02\AndroidManifest.xml:29:25-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:23:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:26:22-74
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:39:9-45:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:43:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:44:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:45:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:46:9-52:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:49:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:50:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:51:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:52:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:47:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:53:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:56:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:57:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:58:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:54:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.9.1] C:\Users\samsung\.gradle\caches\transforms-3\e0785b7a1bc735b97cef64d41a508754\transformed\work-runtime-2.9.1\AndroidManifest.xml:140:25-85
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\samsung\.gradle\caches\transforms-3\fca4a2a93361e5b37a5bd3a0ceafd122\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\samsung\.gradle\caches\transforms-3\fca4a2a93361e5b37a5bd3a0ceafd122\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\samsung\.gradle\caches\transforms-3\fca4a2a93361e5b37a5bd3a0ceafd122\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\samsung\.gradle\caches\transforms-3\77b16eea497cb3cad6fe224a3d64d6d7\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\samsung\.gradle\caches\transforms-3\77b16eea497cb3cad6fe224a3d64d6d7\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\samsung\.gradle\caches\transforms-3\77b16eea497cb3cad6fe224a3d64d6d7\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.passivedata.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\samsung\.gradle\caches\transforms-3\77b16eea497cb3cad6fe224a3d64d6d7\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\samsung\.gradle\caches\transforms-3\77b16eea497cb3cad6fe224a3d64d6d7\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\samsung\.gradle\caches\transforms-3\77b16eea497cb3cad6fe224a3d64d6d7\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\samsung\.gradle\caches\transforms-3\77b16eea497cb3cad6fe224a3d64d6d7\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\samsung\.gradle\caches\transforms-3\77b16eea497cb3cad6fe224a3d64d6d7\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.passivedata.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\samsung\.gradle\caches\transforms-3\77b16eea497cb3cad6fe224a3d64d6d7\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\samsung\.gradle\caches\transforms-3\77b16eea497cb3cad6fe224a3d64d6d7\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\cf436576dd513057d169d2a4e2294ef4\transformed\jetified-lifecycle-process-2.8.4\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\cf436576dd513057d169d2a4e2294ef4\transformed\jetified-lifecycle-process-2.8.4\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\samsung\.gradle\caches\transforms-3\cf436576dd513057d169d2a4e2294ef4\transformed\jetified-lifecycle-process-2.8.4\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\samsung\.gradle\caches\transforms-3\ca6c6428bbc37f14c44d26af1f2e3f93\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\samsung\.gradle\caches\transforms-3\fe80b33c8c362db705638b8c70c8b589\transformed\room-runtime-2.5.0\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\samsung\.gradle\caches\transforms-3\fe80b33c8c362db705638b8c70c8b589\transformed\room-runtime-2.5.0\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\samsung\.gradle\caches\transforms-3\fe80b33c8c362db705638b8c70c8b589\transformed\room-runtime-2.5.0\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\samsung\.gradle\caches\transforms-3\fe80b33c8c362db705638b8c70c8b589\transformed\room-runtime-2.5.0\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\samsung\.gradle\caches\transforms-3\fe80b33c8c362db705638b8c70c8b589\transformed\room-runtime-2.5.0\AndroidManifest.xml:25:13-74

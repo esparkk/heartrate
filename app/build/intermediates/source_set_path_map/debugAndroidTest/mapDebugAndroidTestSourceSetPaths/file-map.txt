@@ -1,0 +1,4 @@
+com.example.passivedata.test.app-androidTest-0 C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\build\generated\res\resValues\androidTest\debug
+com.example.passivedata.test.app-mergeDebugAndroidTestResources-1 C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.passivedata.test.app-mergeDebugAndroidTestResources-2 C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.passivedata.test.app-debugAndroidTest-3 C:\Users\samsung\Desktop\4_1\vvvvvvv\0826\PassiveData\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
